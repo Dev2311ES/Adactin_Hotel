@@ -1,0 +1,10 @@
+2022-03-21 18:03:45 INFO  Adactin_Runner_Class:17 - Launch
+2022-03-21 18:21:14 INFO  Adactin_Runner_Class:18 - Launch The URL
+2022-03-21 18:21:27 INFO  Adactin_Runner_Class:22 - Login Page Opened
+2022-03-21 18:21:29 WARN  Adactin_Runner_Class:28 - Search Hotel Page Successfully Opened
+2022-03-21 18:21:30 INFO  Adactin_Runner_Class:42 - Search Hotel Page Successful 
+2022-03-21 18:21:31 INFO  Adactin_Runner_Class:47 - Search Hotel Confirm page Successful
+2022-03-21 18:21:31 INFO  Adactin_Runner_Class:50 - Book a Hotel Page Successfully Opened
+2022-03-21 18:21:32 INFO  Adactin_Runner_Class:65 - Book a Hotel Successful
+2022-03-21 18:21:33 WARN  Adactin_Runner_Class:72 - Take a Screenshot Successfully
+2022-03-21 18:21:33 WARN  Adactin_Runner_Class:76 - Page Successfully Logout
